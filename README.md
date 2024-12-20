@@ -8,9 +8,9 @@ Modern UI/UX built with ReactJS
 ### **Overview**  
 This project is a fully responsive website showcasing modern design and functionality. It leverages ReactJS to deliver a clean user interface, reusable components, and responsive design.
 
-Transform a **[Figma Design]([https://www.figma.com/design/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0-1&p=f&t=ZCx6hEuI3udctkGC-0))** to a fully responsive website.
+Transform a **figma design** to a fully responsive website.
 
-
+## [Figma Design Here](https://www.figma.com/design/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0-1&p=f&t=f1ogj43WS6AN96tL-0/) 
 
 ---
 
