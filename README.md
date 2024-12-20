@@ -1,7 +1,7 @@
 # Fully Responsive GPT-3 Website  
 Modern UI/UX built with ReactJS  
 
-![Screenshot](../screenshot.png)  
+![Screenshot](src/assets/screenshot.png)  
 
 ## [Live Demo](https://mb-gpt-3.netlify.app/)  
 
